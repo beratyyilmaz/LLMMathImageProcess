@@ -1,0 +1,10 @@
+C:\Users\OGUZHAN\OneDrive\Desktop\SimpleML_ImageProcess\bin\Debug\SimpleML_ImageProcess.exe.config
+C:\Users\OGUZHAN\OneDrive\Desktop\SimpleML_ImageProcess\bin\Debug\SimpleML_ImageProcess.exe
+C:\Users\OGUZHAN\OneDrive\Desktop\SimpleML_ImageProcess\bin\Debug\SimpleML_ImageProcess.pdb
+C:\Users\OGUZHAN\OneDrive\Desktop\SimpleML_ImageProcess\obj\Debug\SimpleML_ImageProcess.csproj.AssemblyReference.cache
+C:\Users\OGUZHAN\OneDrive\Desktop\SimpleML_ImageProcess\obj\Debug\SimpleML_ImageProcess.Properties.Resources.resources
+C:\Users\OGUZHAN\OneDrive\Desktop\SimpleML_ImageProcess\obj\Debug\SimpleML_ImageProcess.csproj.GenerateResource.cache
+C:\Users\OGUZHAN\OneDrive\Desktop\SimpleML_ImageProcess\obj\Debug\SimpleML_ImageProcess.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\OneDrive\Desktop\SimpleML_ImageProcess\obj\Debug\SimpleML_ImageProcess.exe
+C:\Users\OGUZHAN\OneDrive\Desktop\SimpleML_ImageProcess\obj\Debug\SimpleML_ImageProcess.pdb
+C:\Users\OGUZHAN\OneDrive\Desktop\SimpleML_ImageProcess\obj\Debug\SimpleML_ImageProcess.exe.config
