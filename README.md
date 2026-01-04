@@ -1,8 +1,8 @@
 # LLMMathImageProcess
 
-Bu proje, **görsel (resim) tabanlı matematik sorularının** işlenmesi ve çözüm sürecinde **Görüntü İşleme** ve **Büyük Dil Modelleri (LLM)** yaklaşımlarını bir arada kullanmayı amaçlamaktadır.
+Bu proje, *görsel (resim) tabanlı matematik sorularının* işlenmesi ve çözüm sürecinde **Görüntü İşleme** ve **Büyük Dil Modelleri (LLM)** yaklaşımlarını bir arada kullanmayı amaçlamaktadır.
 
-## 📌 Proje Amacı
+ ### 📌 Proje Amacı
 
 - Matematik sorularını içeren görselleri analiz etmek  
 - Görselden metin çıkarımı (OCR) yapmak  
